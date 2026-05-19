@@ -1,0 +1,14 @@
+# Model weights (too large for git)
+weights.npy
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# IDE
+.vscode/
+.idea/
+
+# Misc
+*.log
